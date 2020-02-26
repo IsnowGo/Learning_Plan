@@ -1,19 +1,9 @@
 #晨会/日报
-
-#DS运维继续思考
-
-#DS运维和镇鸿对齐
+#shield前端开发安排
 
 #前端基础知识
-	引用类型->Object：
-		prototype
-		__proto__
-		create
-		assign
-		entries
-		fromEntries
-#运维设计学习
+	面向对象搞定
 
-#运动健身计划
-#唱歌计划
+
+#运动健身计划[燃脂课程安排]
 	
