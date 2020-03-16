@@ -18,7 +18,8 @@
 #angular组件学习
 
 #TypeScript
-	
+#路由原理
+#服务端渲染SSR	
 	
 挑战:
 
