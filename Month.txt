@@ -17,6 +17,12 @@
 	变化检测
 	生态
 	Observable
+
+angular.vue.react 对比
+	路由 axio
+	网络请求模块
+	状态管理 redux
+
 ##前端工程化
 	Webpack
 ##TypeScript总结
